@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="1">
+  <Filename>chakram.png</Filename>
+  <Animation IsLooping="1">
+    <Name>chakram</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="26" AnchorPointY="26">
+        <ActiveCollisionRect hasActiveRect="1" height="42" width="43" x="7" y="10" />
+        <PassiveCollisionRect height="35" width="38" x="15" y="17" />
+        <RenderRect height="49" width="48" x="3" y="4" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="79" AnchorPointY="25">
+        <ActiveCollisionRect hasActiveRect="1" height="41" width="97" x="61" y="8" />
+        <PassiveCollisionRect height="32" width="87" x="71" y="17" />
+        <RenderRect height="48" width="101" x="58" y="4" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="141" AnchorPointY="26">
+        <ActiveCollisionRect hasActiveRect="1" height="41" width="160" x="123" y="9" />
+        <PassiveCollisionRect height="36" width="150" x="129" y="19" />
+        <RenderRect height="49" width="163" x="119" y="2" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

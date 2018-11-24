@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="12">
+  <Filename>wightArcherSnowy.png</Filename>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowWalkUp</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="55" AnchorPointY="56">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="59" width="70" x="37" y="10" />
+        <RenderRect height="66" width="73" x="32" y="5" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="183" AnchorPointY="58">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="59" width="195" x="168" y="14" />
+        <RenderRect height="66" width="207" x="160" y="5" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="311" AnchorPointY="56">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="58" width="323" x="297" y="12" />
+        <RenderRect height="67" width="332" x="287" y="7" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="439" AnchorPointY="58">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="60" width="451" x="425" y="15" />
+        <RenderRect height="66" width="463" x="417" y="6" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowWalkLeft</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="54" AnchorPointY="121">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="124" width="66" x="42" y="79" />
+        <RenderRect height="129" width="77" x="37" y="72" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="182" AnchorPointY="120">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="122" width="195" x="175" y="77" />
+        <RenderRect height="126" width="206" x="159" y="72" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="310" AnchorPointY="121">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="124" width="323" x="299" y="77" />
+        <RenderRect height="131" width="340" x="284" y="69" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="438" AnchorPointY="120">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="123" width="451" x="427" y="75" />
+        <RenderRect height="130" width="459" x="420" y="67" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowWalkDown</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="56" AnchorPointY="186">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="187" width="67" x="40" y="139" />
+        <RenderRect height="197" width="74" x="33" y="130" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="183" AnchorPointY="187">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="188" width="196" x="168" y="142" />
+        <RenderRect height="190" width="199" x="163" y="135" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="311" AnchorPointY="187">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="187" width="326" x="294" y="140" />
+        <RenderRect height="188" width="330" x="287" y="135" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="440" AnchorPointY="187">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="186" width="455" x="423" y="143" />
+        <RenderRect height="193" width="461" x="419" y="136" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowWalkRight</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="56" AnchorPointY="249">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="251" width="64" x="45" y="205" />
+        <RenderRect height="259" width="73" x="38" y="198" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="184" AnchorPointY="248">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="251" width="192" x="170" y="205" />
+        <RenderRect height="257" width="195" x="165" y="199" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="312" AnchorPointY="249">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="252" width="320" x="296" y="205" />
+        <RenderRect height="257" width="326" x="290" y="195" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="440" AnchorPointY="248">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="250" width="447" x="425" y="205" />
+        <RenderRect height="257" width="454" x="422" y="195" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowStandUp</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="55" AnchorPointY="56">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="59" width="70" x="37" y="10" />
+        <RenderRect height="66" width="73" x="32" y="5" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowStandLeft</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="54" AnchorPointY="121">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="124" width="66" x="42" y="79" />
+        <RenderRect height="129" width="77" x="37" y="72" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowStandDown</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="56" AnchorPointY="186">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="187" width="67" x="40" y="139" />
+        <RenderRect height="197" width="74" x="33" y="130" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wightArcherSnowStandRight</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="56" AnchorPointY="249">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="251" width="64" x="45" y="205" />
+        <RenderRect height="259" width="73" x="38" y="198" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wightArcherSnowShootUp</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="52" AnchorPointY="573">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="573" width="68" x="41" y="527" />
+        <RenderRect height="582" width="74" x="32" y="516" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="182" AnchorPointY="570">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="574" width="193" x="172" y="526" />
+        <RenderRect height="582" width="202" x="157" y="519" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="310" AnchorPointY="570">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="570" width="321" x="301" y="526" />
+        <RenderRect height="581" width="329" x="293" y="515" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="438" AnchorPointY="570">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="575" width="449" x="428" y="527" />
+        <RenderRect height="581" width="455" x="419" y="513" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="566" AnchorPointY="570">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="574" width="578" x="556" y="525" />
+        <RenderRect height="581" width="585" x="552" y="511" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="694" AnchorPointY="570">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="575" width="705" x="684" y="525" />
+        <RenderRect height="579" width="711" x="677" y="521" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wightArcherSnowShootLeft</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="54" AnchorPointY="634">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="634" width="64" x="43" y="588" />
+        <RenderRect height="640" width="69" x="39" y="583" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="183" AnchorPointY="634">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="634" width="195" x="165" y="590" />
+        <RenderRect height="639" width="200" x="161" y="584" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="311" AnchorPointY="634">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="635" width="322" x="292" y="588" />
+        <RenderRect height="642" width="324" x="289" y="583" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="439" AnchorPointY="634">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="636" width="452" x="423" y="587" />
+        <RenderRect height="640" width="459" x="417" y="587" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="568" AnchorPointY="634">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="634" width="579" x="550" y="588" />
+        <RenderRect height="642" width="583" x="544" y="587" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="696" AnchorPointY="633">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="633" width="704" x="678" y="588" />
+        <RenderRect height="641" width="710" x="671" y="585" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wightArcherSnowShootDown</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="52" AnchorPointY="695">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="698" width="63" x="40" y="652" />
+        <RenderRect height="702" width="68" x="36" y="649" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="176" AnchorPointY="697">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="699" width="191" x="169" y="653" />
+        <RenderRect height="703" width="195" x="165" y="646" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="304" AnchorPointY="697">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="701" width="318" x="299" y="652" />
+        <RenderRect height="702" width="321" x="295" y="647" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="433" AnchorPointY="696">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="699" width="445" x="426" y="652" />
+        <RenderRect height="703" width="449" x="421" y="649" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="561" AnchorPointY="696">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="699" width="574" x="553" y="653" />
+        <RenderRect height="703" width="578" x="550" y="648" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="690" AnchorPointY="697">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="700" width="702" x="683" y="652" />
+        <RenderRect height="703" width="706" x="679" y="644" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wightArcherSnowShootRight</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="55" AnchorPointY="762">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="764" width="67" x="44" y="718" />
+        <RenderRect height="770" width="71" x="38" y="706" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="182" AnchorPointY="762">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="764" width="202" x="168" y="716" />
+        <RenderRect height="770" width="204" x="161" y="708" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="310" AnchorPointY="762">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="763" width="330" x="298" y="717" />
+        <RenderRect height="767" width="335" x="293" y="711" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="438" AnchorPointY="762">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="764" width="457" x="421" y="716" />
+        <RenderRect height="770" width="461" x="416" y="710" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="565" AnchorPointY="762">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="763" width="584" x="550" y="718" />
+        <RenderRect height="768" width="588" x="548" y="712" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="694" AnchorPointY="762">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="764" width="714" x="683" y="718" />
+        <RenderRect height="767" width="717" x="679" y="714" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

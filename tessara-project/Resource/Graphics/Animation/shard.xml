@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="1">
+  <Filename>shard.png</Filename>
+  <Animation IsLooping="1">
+    <Name>shard</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="6" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="11" x="0" y="0" />
+        <RenderRect height="63" width="11" x="0" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="6" AnchorPointY="65">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="11" x="0" y="0" />
+        <RenderRect height="63" width="11" x="0" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="6" AnchorPointY="67">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="11" x="0" y="0" />
+        <RenderRect height="63" width="11" x="0" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="6" AnchorPointY="69">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="11" x="0" y="0" />
+        <RenderRect height="63" width="11" x="0" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="6" AnchorPointY="67">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="11" x="0" y="0" />
+        <RenderRect height="63" width="11" x="0" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="6" AnchorPointY="65">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="11" x="0" y="0" />
+        <RenderRect height="63" width="11" x="0" y="0" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="2">
+  <Filename>power.png</Filename>
+  <Animation IsLooping="0">
+    <Name>lightningSwitchOff</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="32" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="63" x="0" y="0" />
+        <RenderRect height="63" width="64" x="-1" y="-1" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>lightningSwitchOn</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="333" AnchorPointX="32" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="63" x="0" y="0" />
+        <RenderRect height="63" width="64" x="-1" y="-1" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="333" AnchorPointX="96" AnchorPointY="127">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="127" width="127" x="64" y="64" />
+        <RenderRect height="127" width="128" x="63" y="63" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

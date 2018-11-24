@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="12">
+  <Filename>meleeWightDesert.png</Filename>
+  <Animation IsLooping="0">
+    <Name>meleeWightForestAttackUp</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="42" AnchorPointY="60">
+        <ActiveCollisionRect hasActiveRect="1" height="49" width="37" x="27" y="21" />
+        <PassiveCollisionRect height="60" width="53" x="31" y="17" />
+        <RenderRect height="68" width="63" x="19" y="6" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="168" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="47" width="166" x="160" y="18" />
+        <PassiveCollisionRect height="62" width="183" x="162" y="17" />
+        <RenderRect height="67" width="187" x="154" y="12" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="296" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="39" width="298" x="288" y="12" />
+        <PassiveCollisionRect height="63" width="308" x="290" y="18" />
+        <RenderRect height="69" width="315" x="284" y="5" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="424" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="43" width="425" x="419" y="17" />
+        <PassiveCollisionRect height="63" width="438" x="418" y="17" />
+        <RenderRect height="68" width="443" x="412" y="13" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>meleeWightForestAttackLeft</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="39" AnchorPointY="124">
+        <ActiveCollisionRect hasActiveRect="1" height="113" width="36" x="9" y="102" />
+        <PassiveCollisionRect height="127" width="52" x="31" y="78" />
+        <RenderRect height="132" width="59" x="6" y="72" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="167" AnchorPointY="124">
+        <ActiveCollisionRect hasActiveRect="1" height="114" width="162" x="133" y="102" />
+        <PassiveCollisionRect height="126" width="181" x="159" y="76" />
+        <RenderRect height="130" width="187" x="131" y="72" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="296" AnchorPointY="124">
+        <ActiveCollisionRect hasActiveRect="1" height="113" width="286" x="256" y="100" />
+        <PassiveCollisionRect height="126" width="306" x="286" y="78" />
+        <RenderRect height="132" width="314" x="255" y="70" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="425" AnchorPointY="124">
+        <ActiveCollisionRect hasActiveRect="1" height="112" width="412" x="387" y="99" />
+        <PassiveCollisionRect height="126" width="436" x="413" y="77" />
+        <RenderRect height="131" width="439" x="387" y="76" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>meleeWightForestAttackDown</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="187">
+        <ActiveCollisionRect hasActiveRect="1" height="201" width="57" x="48" y="169" />
+        <PassiveCollisionRect height="189" width="54" x="28" y="144" />
+        <RenderRect height="203" width="58" x="25" y="140" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="169" AnchorPointY="186">
+        <ActiveCollisionRect hasActiveRect="1" height="195" width="174" x="166" y="164" />
+        <PassiveCollisionRect height="187" width="180" x="159" y="145" />
+        <RenderRect height="199" width="184" x="155" y="136" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="298" AnchorPointY="186">
+        <ActiveCollisionRect hasActiveRect="1" height="197" width="300" x="290" y="164" />
+        <PassiveCollisionRect height="187" width="306" x="288" y="143" />
+        <RenderRect height="197" width="315" x="280" y="135" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="425" AnchorPointY="186">
+        <ActiveCollisionRect hasActiveRect="1" height="197" width="430" x="420" y="167" />
+        <PassiveCollisionRect height="187" width="437" x="417" y="144" />
+        <RenderRect height="197" width="442" x="413" y="140" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>meleeWightForestAttackRight</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="44" AnchorPointY="251">
+        <ActiveCollisionRect hasActiveRect="1" height="243" width="74" x="43" y="231" />
+        <PassiveCollisionRect height="253" width="50" x="29" y="206" />
+        <RenderRect height="258" width="78" x="26" y="204" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="172" AnchorPointY="251">
+        <ActiveCollisionRect hasActiveRect="1" height="244" width="207" x="177" y="230" />
+        <PassiveCollisionRect height="252" width="179" x="158" y="208" />
+        <RenderRect height="263" width="213" x="148" y="203" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="297" AnchorPointY="250">
+        <ActiveCollisionRect hasActiveRect="1" height="243" width="336" x="309" y="228" />
+        <PassiveCollisionRect height="252" width="308" x="286" y="207" />
+        <RenderRect height="258" width="343" x="282" y="202" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="425" AnchorPointY="250">
+        <ActiveCollisionRect hasActiveRect="1" height="240" width="467" x="438" y="227" />
+        <PassiveCollisionRect height="252" width="437" x="413" y="206" />
+        <RenderRect height="256" width="471" x="408" y="202" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestWalkUp</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="42" AnchorPointY="313">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="313" width="53" x="28" y="272" />
+        <RenderRect height="319" width="65" x="21" y="257" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="168" AnchorPointY="314">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="315" width="180" x="159" y="268" />
+        <RenderRect height="319" width="189" x="150" y="261" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="296" AnchorPointY="314">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="315" width="306" x="288" y="269" />
+        <RenderRect height="320" width="315" x="276" y="255" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="426" AnchorPointY="315">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="315" width="434" x="417" y="268" />
+        <RenderRect height="322" width="445" x="406" y="255" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="554" AnchorPointY="314">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="314" width="562" x="543" y="271" />
+        <RenderRect height="322" width="572" x="533" y="263" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestWalkLeft</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="378">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="379" width="52" x="32" y="333" />
+        <RenderRect height="382" width="59" x="6" y="328" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="168" AnchorPointY="377">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="378" width="179" x="159" y="334" />
+        <RenderRect height="384" width="184" x="140" y="329" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="298" AnchorPointY="378">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="379" width="306" x="289" y="332" />
+        <RenderRect height="383" width="318" x="264" y="330" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="427" AnchorPointY="377">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="379" width="434" x="415" y="334" />
+        <RenderRect height="388" width="442" x="392" y="325" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="554" AnchorPointY="379">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="380" width="563" x="545" y="332" />
+        <RenderRect height="384" width="570" x="524" y="326" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestWalkDown</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="443">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="444" width="53" x="28" y="397" />
+        <RenderRect height="455" width="60" x="23" y="393" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="171" AnchorPointY="443">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="444" width="179" x="158" y="397" />
+        <RenderRect height="454" width="196" x="153" y="391" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="297" AnchorPointY="443">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="444" width="307" x="289" y="397" />
+        <RenderRect height="455" width="316" x="277" y="387" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="425" AnchorPointY="444">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="444" width="435" x="416" y="400" />
+        <RenderRect height="457" width="444" x="407" y="394" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="553" AnchorPointY="444">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="444" width="563" x="544" y="397" />
+        <RenderRect height="456" width="572" x="537" y="394" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestWalkRight</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="506">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="508" width="50" x="33" y="461" />
+        <RenderRect height="513" width="66" x="24" y="457" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="170" AnchorPointY="506">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="508" width="177" x="161" y="458" />
+        <RenderRect height="515" width="197" x="153" y="456" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="296" AnchorPointY="506">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="505" width="304" x="287" y="460" />
+        <RenderRect height="513" width="314" x="278" y="457" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="424" AnchorPointY="505">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="506" width="432" x="415" y="461" />
+        <RenderRect height="514" width="444" x="402" y="458" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="554" AnchorPointY="506">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="506" width="562" x="543" y="460" />
+        <RenderRect height="510" width="580" x="539" y="457" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestStandUp</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="42" AnchorPointY="313">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="313" width="53" x="28" y="272" />
+        <RenderRect height="319" width="65" x="21" y="257" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestStandLeft</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="378">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="379" width="52" x="32" y="333" />
+        <RenderRect height="382" width="59" x="6" y="328" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestStandDown</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="443">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="444" width="53" x="28" y="397" />
+        <RenderRect height="455" width="60" x="23" y="393" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>meleeWightForestStandRight</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="506">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="508" width="50" x="33" y="461" />
+        <RenderRect height="513" width="66" x="24" y="457" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

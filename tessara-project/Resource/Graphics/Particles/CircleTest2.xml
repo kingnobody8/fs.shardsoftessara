@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effect>
+  <Emitter StartA="0" StartR="255" StartG="255" StartB="255" EndA="255" EndR="255" EndG="255" EndB="255" XPos="-16" YPos="-25" MinLife="100" MaxLife="1200" MinP="120" MaxP="130" Width="100" Height="100" CenterX="8" CenterY="8" MinXVel="0" MinYVel="0" MaxXVel="1" MaxYVel="1" XVelI="0" YVelI="-50" RotateSpeed="1" StartScale="0.2" EndScale="0.2" LifeTime="1" Loop="1" EmitterName="Emitter1" Shape="2" Fill="1" Radius="50">circle.png</Emitter>
+</Effect>

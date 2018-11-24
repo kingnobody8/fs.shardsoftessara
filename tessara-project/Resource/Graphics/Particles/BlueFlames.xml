@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effect>
+  <Emitter StartA="255" StartR="0" StartG="0" StartB="255" EndA="0" EndR="255" EndG="255" EndB="255" XPos="-245" YPos="155" MinLife="100" MaxLife="1000" MinP="120" MaxP="130" Width="500" Height="10" CenterX="8" CenterY="8" MinXVel="0" MinYVel="-500" MaxXVel="1" MaxYVel="0" XVelI="0" YVelI="0" RotateSpeed="1" StartScale="1" EndScale="1" LifeTime="1" Loop="1" EmitterName="Blue Flames">Diamond.png</Emitter>
+</Effect>

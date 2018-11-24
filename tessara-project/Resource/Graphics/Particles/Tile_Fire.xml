@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effect>
+  <Emitter StartA="255" StartR="192" StartG="192" StartB="192" EndA="0" EndR="255" EndG="255" EndB="255" XPos="-25" YPos="24" MinLife="700" MaxLife="1000" Spawn="20" MaxP="20" Width="10" Height="10" CenterX="8" CenterY="8" MinXVel="-50" MinYVel="-50" MaxXVel="50" MaxYVel="50" XVelI="0" YVelI="-350" RotateSpeed="1" StartScale="1" EndScale="2" LifeTime="1" Loop="1" EmitterName="Smoke" Shape="1" Fill="2" Radius="50" TWidth="16" THeight="16">circle.png</Emitter>
+  <Emitter StartA="255" StartR="255" StartG="0" StartB="0" EndA="0" EndR="255" EndG="255" EndB="0" XPos="-18" YPos="40" MinLife="700" MaxLife="900" Spawn="70" MaxP="75" Width="40" Height="10" CenterX="8" CenterY="8" MinXVel="0" MinYVel="-50" MaxXVel="1" MaxYVel="1" XVelI="0" YVelI="-350" RotateSpeed="9" StartScale="1.7" EndScale="1" LifeTime="1" Loop="1" EmitterName="Fire" Shape="1" Fill="2" Radius="50" TWidth="16" THeight="16">diamond.png</Emitter>
+</Effect>

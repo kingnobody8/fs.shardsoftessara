@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="4">
+  <Filename>earthshard.png</Filename>
+  <Animation IsLooping="1">
+    <Name>earthShardRight</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="62" AnchorPointY="26">
+        <ActiveCollisionRect hasActiveRect="1" height="40" width="61" x="11" y="12" />
+        <PassiveCollisionRect height="40" width="61" x="26" y="13" />
+        <RenderRect height="43" width="66" x="8" y="6" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="120" AnchorPointY="26">
+        <ActiveCollisionRect hasActiveRect="1" height="39" width="121" x="71" y="13" />
+        <PassiveCollisionRect height="40" width="120" x="88" y="11" />
+        <RenderRect height="46" width="123" x="67" y="7" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="178" AnchorPointY="26">
+        <ActiveCollisionRect hasActiveRect="1" height="39" width="177" x="130" y="13" />
+        <PassiveCollisionRect height="39" width="177" x="143" y="12" />
+        <RenderRect height="43" width="187" x="124" y="8" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>earthShardDown</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="37" AnchorPointY="109">
+        <ActiveCollisionRect hasActiveRect="1" height="109" width="51" x="23" y="58" />
+        <PassiveCollisionRect height="109" width="51" x="21" y="78" />
+        <RenderRect height="112" width="54" x="16" y="53" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="93" AnchorPointY="108">
+        <ActiveCollisionRect hasActiveRect="1" height="109" width="108" x="79" y="58" />
+        <PassiveCollisionRect height="110" width="109" x="79" y="72" />
+        <RenderRect height="112" width="110" x="76" y="54" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="156" AnchorPointY="104">
+        <ActiveCollisionRect hasActiveRect="1" height="103" width="169" x="144" y="57" />
+        <PassiveCollisionRect height="104" width="171" x="144" y="74" />
+        <RenderRect height="110" width="175" x="141" y="50" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>earthShardUp</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="43" AnchorPointY="139">
+        <ActiveCollisionRect hasActiveRect="1" height="188" width="54" x="27" y="138" />
+        <PassiveCollisionRect height="170" width="51" x="29" y="138" />
+        <RenderRect height="195" width="57" x="23" y="131" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="100" AnchorPointY="139">
+        <ActiveCollisionRect hasActiveRect="1" height="188" width="109" x="85" y="139" />
+        <PassiveCollisionRect height="169" width="109" x="84" y="139" />
+        <RenderRect height="192" width="115" x="80" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="161" AnchorPointY="143">
+        <ActiveCollisionRect hasActiveRect="1" height="189" width="175" x="145" y="140" />
+        <PassiveCollisionRect height="175" width="170" x="146" y="140" />
+        <RenderRect height="196" width="182" x="137" y="128" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>earthShardLeft</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="23" AnchorPointY="225">
+        <ActiveCollisionRect hasActiveRect="1" height="240" width="74" x="20" y="212" />
+        <PassiveCollisionRect height="239" width="52" x="20" y="214" />
+        <RenderRect height="246" width="74" x="16" y="206" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="85" AnchorPointY="226">
+        <ActiveCollisionRect hasActiveRect="1" height="241" width="134" x="82" y="213" />
+        <PassiveCollisionRect height="240" width="121" x="82" y="212" />
+        <RenderRect height="247" width="137" x="78" y="205" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="140" AnchorPointY="225">
+        <ActiveCollisionRect hasActiveRect="1" height="240" width="188" x="137" y="210" />
+        <PassiveCollisionRect height="240" width="172" x="138" y="211" />
+        <RenderRect height="248" width="194" x="135" y="203" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

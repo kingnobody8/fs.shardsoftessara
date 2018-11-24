@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MapSave>
+  <LevelList>
+    <Level>
+      <Name used="0">Tutorial</Name>
+      <Object col="36" row="50" got="0">
+        <Name>key</Name>
+      </Object>
+      <Object col="23" row="51" got="0">
+        <Name>key</Name>
+      </Object>
+      <Object col="49" row="51" got="0">
+        <Name>key</Name>
+      </Object>
+      <Trigger activated="0" Loop="0">
+        <Note>If you are playing on the arcade machine go West.  If you are using the keyboard, go South. If you are using an XBOX controller, go East. Thank You.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Remember fire spreads. But as long as you are in   your fire form you will be safe.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>You may be able to shoot over water and some types of plants.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Pressing '2' on the numpad does a melee attack. You can also start up a conversation using it.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>When you are in your ice form you can walk on the  ice, however any other form will slide. Non-ice    based enemies will slide as well.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Remember that fire won't hurt you while you are in your fire form. In any other form you should avoid fire.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Congratulations you have no been trained in all the artifacts</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Pressing 'X' will do a melee slash. You can also   press 'X' to start a conversation.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Congratulations you have no been trained in all the artifacts</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Pressing '1' does a melee attack. You can also     start up a conversation using it.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Remember fire spreads. But as long as you are in   your fire form you will be safe.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>You may be able to shoot over water and some types of plants.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Remember that fire won't hurt you while you are in your fire form. In any other form you should avoid fire.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>When you are in your ice form you can walk on the  ice, however any other form will slide. Non-ice    based enemies will slide as well.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Congratulations you have no been trained in all the artifacts</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Sometimes enemies will drop items such as potions. When you have a potion, press '2' to use it.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Sometimes enemies will drop items such as potions. When you have a potion, press '3' to use it.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Sometimes enemies will drop items such as potions. When you have a potion, press 'Right Bumper' to use it.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Remember fire spreads. But as long as you are in   your fire form you will be safe.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>You may be able to shoot over water and some types of plants.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>Remember that fire won't hurt you while you are in your fire form. In any other form you should avoid fire.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Trigger activated="0" Loop="0">
+        <Note>When you are in your ice form you can walk on the  ice, however any other form will slide. Non-ice    based enemies will slide as well.</Note>
+        <Tag></Tag>
+      </Trigger>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The Fire artifact is extremely useful. You   should press '4' on the numpad to shoot a fireball.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can press '5' on the numpad to shoot a   Chakram. These are like fireballs, but can bounce  off of objects.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Your last fire ability is a dash attack. To  perform this attack press '6' on the numpad.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>Here is the Ice Artifact. You can press '7'  and '8' to cycle through your artifacts. When you  are in your ice form, press '4' on the numpad to    shoot an icicle.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can press '5' to perform an ice sword    attack. You can also press '6' to freeze the ground in front of you and heal yourself.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The Earth Artifact is awesome! You can press '4' to throw a rock! Oh yeah, and you can press '5' to smash boulders. Pressing '6' will temporarily  give you an earthen shield.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The final artifact is Lightning. You can     press '4' to shoot electricity. Pressing '5' will do an electric sword swipe. Pressing '6' will do an electric dash.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The Fire artifact is extremely useful. You   should press 'A' to shoot a fireball.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can press 'B' to shoot a chakram. These  are like fireballs, but can bounce off of objects.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can press 'Y' to perform a fire dash     attack.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>Here is the Ice Artifact. You can press LT and RT to cycle through the artifacts. When you are in your ice form, press 'A' to shoot an icicle.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can press 'B' to perform an Ice Sword attack. Pressing 'Y' will freeze the ground below you and heal you.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The Earth Artifact is awesome! You can press 'A' to throw a rock! Oh yeah, and you can press 'B' to smash these boulders. Pressing 'Y' will        temporarily give you an Earthen shield.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The Lightning artifact is the last one. Press 'A' to shoot a lightning bolt. Press 'B' to do an electric sword slash. Press 'Y' to do an electric  dash attack.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The Fire artifact is extremely useful. You   should press '3' to shoot a fireball.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can press '4' to shoot a Chakram. These  are like fireballs, but can bounce off of objects.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Your last fire ability is a dash attack. To  perform this attack press '5'.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>Here is the Ice Artifact. You can press 'Left Click' and 'Right Click' to cycle through your    artifacts. When you are in your ice form, press '3' to shoot an icicle.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can press '4' to perform an ice sword    attack. You can also press '5' to freeze the ground in front of you and heal yourself.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The Earth Artifact is awesome! You can press '3' to throw a rock! Oh yeah, and you can press '4' to smash boulders. Pressing '5' will temporarily  give you an earthen shield.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Bob</Name>
+        <Text>The final artifact is Lightning. You can     press '3' to shoot electricity. Pressing '4' will  do an electric sword swipe. Pressing '5' will do an electric dash.</Text>
+        <Item>artifact</Item>
+      </Entity>
+      <Door type="1" col="32" row="28" open="0" />
+      <Door type="0" col="30" row="53" open="0" />
+      <Door type="0" col="17" row="53" open="0" />
+      <Door type="1" col="19" row="28" open="0" />
+      <Door type="1" col="46" row="28" open="0" />
+      <Door type="0" col="44" row="53" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">HTP</Name>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can practice with the FIRE ARTIFACT here.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can practice with the ICE ARTIFACT here.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can practice with the EARTH ARTIFACT     here.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>You can practice with the LIGHTNING ARTIFACT here.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Press '4' on the numpad to shoot a FIREBALL. Press '5' to shoot a FIRE CHAKRAM, that bounces.   Press '6' to do a FIRE DASH.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Press '4' on the numpad to shoot an ICICLE.  Press '5' to do an ICE SWORD attack. Press '6' to  Freeze the ground below you and to HEAL yourself.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Press '4' on the numpad to THROW A ROCK.     Press '5' to SMASH boulders. Press '6' to create an earthen SHIELD.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Press '4' on the numpad to shoot LIGHTNING.  Press '5' to do an electric SWORD SLASH. Press '6' to perform and electric DASH.</Text>
+        <Item></Item>
+      </Entity>
+      <Door type="2" col="28" row="3" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Home</Name>
+      <Entity given="1">
+        <Name>Mom</Name>
+        <Text>Good Morning Tessara, you're wearing your    horns today? Oh that's right, today is the big day  isn't it? When you are ready, go speak to the     Elders in their Sanctuary in the north part of town. I Love You.</Text>
+        <Item></Item>
+      </Entity>
+    </Level>
+    <Level>
+      <Name used="0">Demo</Name>
+      <Object col="12" row="23" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Entity given="1">
+        <Name>Jim</Name>
+        <Text>Some dark magic has overgrown the entrance to the cursed forest. It would take powerful magic to burn a path through. </Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>A massive rockslide has cut us off from Mt.  Baldur! It's going to take months of hammering to  clear a way!</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Vanessa</Name>
+        <Text>Ever since the flood we've had no news of the villagers who settled on the snowy plains! How are we going to get past all this water?</Text>
+        <Item></Item>
+      </Entity>
+      <Door type="2" col="26" row="20" open="0" />
+      <Door type="2" col="12" row="21" open="0" />
+      <Door type="2" col="13" row="21" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Elder</Name>
+      <Entity given="1">
+        <Name>Jorge</Name>
+        <Text>It is time for your test of manhood. There has been much evil coming forth from lands         surrounding ours.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Daniel</Name>
+        <Text>Therefore your task is to rid the         neighboring lands of this evil that afflicts us all.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="1">
+        <Name>Mark</Name>
+        <Text>But you will not be on your own. On your    path you will find Artifacts that will grant you   powers of ancient heros.</Text>
+        <Item></Item>
+      </Entity>
+      <Entity given="0">
+        <Name>Evan</Name>
+        <Text>We shall grant you your first Artifact. The rest must be earned by defeating the leaders of the evil monsters. To begin, you should go to the     practice room on the east side of town. Then go to the cursed forest. Good Luck.</Text>
+        <Item>artifact</Item>
+      </Entity>
+    </Level>
+    <Level>
+      <Name used="0">Shop</Name>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Welcome to the shop, If you'd like to trade  go talk to the magic bread on that table.</Text>
+        <Item></Item>
+      </Entity>
+    </Level>
+    <Level>
+      <Name used="0">Forest</Name>
+      <Object col="14" row="56" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Object col="34" row="39" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Object col="21" row="6" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Door type="0" col="54" row="38" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Witch</Name>
+      <Object col="7" row="1" got="0">
+        <Name>key</Name>
+      </Object>
+      <Entity given="1">
+        <Name>Witch</Name>
+        <Text>I sense great power in you child. Take this key and slay the beast who disturbs the spirit of the forest. </Text>
+        <Item></Item>
+      </Entity>
+    </Level>
+    <Level>
+      <Name used="0">Snowy</Name>
+      <Object col="28" row="45" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Door type="1" col="57" row="40" open="0" />
+      <Door type="1" col="5" row="4" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">SnowyBonus1</Name>
+      <Object col="5" row="1" got="0">
+        <Name>key</Name>
+      </Object>
+      <Entity given="1">
+        <Name>Bob</Name>
+        <Text>Oh, thank you for rescuing me. I have been   locked in here since I was a child and I am really bored.</Text>
+        <Item></Item>
+      </Entity>
+    </Level>
+    <Level>
+      <Name used="0">SnowyBonus2</Name>
+      <Object col="7" row="3" got="0">
+        <Name>shard</Name>
+      </Object>
+    </Level>
+    <Level>
+      <Name used="0">SnowyHouse1</Name>
+      <Entity given="0">
+        <Name>Vanessa</Name>
+        <Text>Do you like my summer home?</Text>
+        <Item>Potion</Item>
+      </Entity>
+    </Level>
+    <Level>
+      <Name used="0">SnowyHouse2</Name>
+      <Door type="0" col="2" row="2" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Mountain</Name>
+      <Object col="15" row="5" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Door type="1" col="8" row="57" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Desert</Name>
+    </Level>
+    <Level>
+      <Name used="0">Desert2</Name>
+      <Object col="19" row="11" got="0">
+        <Name>shard</Name>
+      </Object>
+    </Level>
+    <Level>
+      <Name used="0">Desert3</Name>
+      <Door type="2" col="10" row="2" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Forest Dungeon</Name>
+      <Object col="13" row="24" got="0">
+        <Name>shard</Name>
+      </Object>
+    </Level>
+    <Level>
+      <Name used="0">Mountain Dungeon</Name>
+      <Object col="16" row="14" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Door type="2" col="13" row="14" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Mountain Boss</Name>
+      <Door type="2" col="3" row="2" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Snow Boss</Name>
+    </Level>
+    <Level>
+      <Name used="0">Desert Dungeon</Name>
+      <Object col="40" row="23" got="0">
+        <Name>key</Name>
+      </Object>
+      <Object col="12" row="18" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Door type="2" col="39" row="28" open="0" />
+      <Door type="0" col="7" row="15" open="0" />
+      <Door type="1" col="22" row="8" open="0" />
+      <Door type="2" col="27" row="24" open="0" />
+    </Level>
+    <Level>
+      <Name used="0">Desert Boss</Name>
+    </Level>
+    <Level>
+      <Name used="0">Enemy Test</Name>
+    </Level>
+    <Level>
+      <Name used="0">Mountain Secret</Name>
+      <Object col="9" row="2" got="0">
+        <Name>shard</Name>
+      </Object>
+      <Door type="1" col="11" row="7" open="0" />
+    </Level>
+  </LevelList>
+</MapSave>

@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="12">
+  <Filename>bossLungeCastSmashLightning.png</Filename>
+  <Animation IsLooping="1">
+    <Name>bossLightningLungeDown</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="55" AnchorPointY="95">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="97" width="67" x="44" y="46" />
+        <RenderRect height="107" width="82" x="28" y="29" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="119" AnchorPointY="93">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="93" width="133" x="102" y="39" />
+        <RenderRect height="100" width="143" x="88" y="22" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="181" AnchorPointY="95">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="88" width="193" x="166" y="40" />
+        <RenderRect height="98" width="207" x="157" y="20" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="240" AnchorPointY="95">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="98" width="253" x="229" y="41" />
+        <RenderRect height="103" width="273" x="215" y="26" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="300" AnchorPointY="94">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="96" width="313" x="287" y="40" />
+        <RenderRect height="99" width="334" x="279" y="24" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="361" AnchorPointY="95">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="90" width="376" x="346" y="38" />
+        <RenderRect height="97" width="394" x="341" y="19" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>bossLightningLungeRight</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="55" AnchorPointY="174">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="175" width="70" x="42" y="116" />
+        <RenderRect height="179" width="86" x="13" y="107" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="137" AnchorPointY="175">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="174" width="157" x="127" y="120" />
+        <RenderRect height="184" width="174" x="94" y="109" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="209" AnchorPointY="176">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="174" width="230" x="201" y="122" />
+        <RenderRect height="186" width="237" x="181" y="104" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="300" AnchorPointY="176">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="177" width="315" x="286" y="124" />
+        <RenderRect height="182" width="346" x="244" y="106" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="381" AnchorPointY="181">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="183" width="401" x="369" y="123" />
+        <RenderRect height="184" width="418" x="346" y="106" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="456" AnchorPointY="176">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="178" width="475" x="442" y="120" />
+        <RenderRect height="184" width="496" x="418" y="97" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>bossLightningLungeLeft</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="445" AnchorPointY="256">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="255" width="457" x="431" y="204" />
+        <RenderRect height="264" width="491" x="411" y="189" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="354" AnchorPointY="253">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="255" width="371" x="344" y="202" />
+        <RenderRect height="270" width="402" x="332" y="188" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="287" AnchorPointY="254">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="256" width="299" x="269" y="202" />
+        <RenderRect height="261" width="326" x="253" y="189" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="200" AnchorPointY="258">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="259" width="210" x="179" y="206" />
+        <RenderRect height="268" width="253" x="166" y="189" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="112" AnchorPointY="256">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="263" width="123" x="99" y="202" />
+        <RenderRect height="268" width="166" x="88" y="184" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="37" AnchorPointY="258">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="260" width="58" x="25" y="200" />
+        <RenderRect height="269" width="88" x="14" y="184" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>bossLightningLungeUp</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="43" AnchorPointY="349">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="349" width="58" x="32" y="296" />
+        <RenderRect height="354" width="71" x="20" y="282" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="107" AnchorPointY="350">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="354" width="123" x="92" y="294" />
+        <RenderRect height="357" width="134" x="85" y="282" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="173" AnchorPointY="354">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="357" width="188" x="157" y="294" />
+        <RenderRect height="361" width="198" x="150" y="280" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="240" AnchorPointY="351">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="349" width="254" x="221" y="294" />
+        <RenderRect height="358" width="264" x="215" y="282" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="306" AnchorPointY="351">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="353" width="317" x="288" y="293" />
+        <RenderRect height="361" width="328" x="282" y="283" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="373" AnchorPointY="354">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="356" width="388" x="359" y="291" />
+        <RenderRect height="363" width="397" x="345" y="281" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningCastDown</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="44" AnchorPointY="430">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="431" width="60" x="28" y="373" />
+        <RenderRect height="437" width="69" x="18" y="359" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="109" AnchorPointY="430">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="431" width="123" x="97" y="373" />
+        <RenderRect height="437" width="134" x="82" y="360" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="181" AnchorPointY="432">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="435" width="190" x="167" y="371" />
+        <RenderRect height="438" width="206" x="154" y="361" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="246" AnchorPointY="434">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="436" width="255" x="234" y="379" />
+        <RenderRect height="443" width="271" x="219" y="366" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="323" AnchorPointY="433">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="434" width="333" x="309" y="372" />
+        <RenderRect height="440" width="349" x="296" y="359" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningCastUp</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="45" AnchorPointY="531">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="534" width="58" x="28" y="471" />
+        <RenderRect height="537" width="68" x="20" y="460" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="112" AnchorPointY="533">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="538" width="123" x="96" y="473" />
+        <RenderRect height="543" width="133" x="83" y="457" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="180" AnchorPointY="535">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="540" width="189" x="164" y="473" />
+        <RenderRect height="542" width="205" x="153" y="457" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="252" AnchorPointY="536">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="542" width="263" x="236" y="477" />
+        <RenderRect height="546" width="279" x="227" y="464" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="324" AnchorPointY="534">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="538" width="337" x="308" y="474" />
+        <RenderRect height="548" width="352" x="299" y="455" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningCastRight</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="619">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="619" width="52" x="31" y="562" />
+        <RenderRect height="628" width="64" x="22" y="542" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="109" AnchorPointY="620">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="619" width="121" x="96" y="564" />
+        <RenderRect height="627" width="131" x="91" y="546" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="176" AnchorPointY="618">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="620" width="188" x="163" y="562" />
+        <RenderRect height="629" width="200" x="152" y="550" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="254" AnchorPointY="619">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="620" width="270" x="245" y="569" />
+        <RenderRect height="627" width="290" x="227" y="551" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="337" AnchorPointY="621">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="622" width="352" x="325" y="564" />
+        <RenderRect height="629" width="359" x="315" y="546" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningCastLeft</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="335" AnchorPointY="707">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="706" width="341" x="319" y="646" />
+        <RenderRect height="715" width="358" x="313" y="634" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="270" AnchorPointY="706">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="706" width="279" x="255" y="643" />
+        <RenderRect height="717" width="294" x="244" y="630" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="200" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="707" width="211" x="181" y="647" />
+        <RenderRect height="714" width="222" x="170" y="629" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="122" AnchorPointY="701">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="706" width="127" x="103" y="651" />
+        <RenderRect height="713" width="152" x="80" y="636" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="701">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="708" width="52" x="24" y="648" />
+        <RenderRect height="721" width="58" x="14" y="633" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningSmashDown</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="44" AnchorPointY="430">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="431" width="60" x="28" y="373" />
+        <RenderRect height="437" width="69" x="18" y="359" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="109" AnchorPointY="430">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="431" width="123" x="97" y="373" />
+        <RenderRect height="437" width="134" x="82" y="360" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="181" AnchorPointY="432">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="435" width="190" x="167" y="371" />
+        <RenderRect height="438" width="206" x="154" y="361" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="246" AnchorPointY="434">
+        <ActiveCollisionRect hasActiveRect="1" height="445" width="260" x="213" y="404" />
+        <PassiveCollisionRect height="436" width="255" x="234" y="379" />
+        <RenderRect height="443" width="271" x="219" y="366" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="323" AnchorPointY="433">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="434" width="333" x="309" y="372" />
+        <RenderRect height="440" width="349" x="296" y="359" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningSmashUp</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="45" AnchorPointY="531">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="534" width="58" x="28" y="471" />
+        <RenderRect height="537" width="68" x="20" y="460" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="112" AnchorPointY="533">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="538" width="123" x="96" y="473" />
+        <RenderRect height="543" width="133" x="83" y="457" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="180" AnchorPointY="535">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="540" width="189" x="164" y="473" />
+        <RenderRect height="542" width="205" x="153" y="457" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="252" AnchorPointY="536">
+        <ActiveCollisionRect hasActiveRect="1" height="501" width="284" x="238" y="463" />
+        <PassiveCollisionRect height="542" width="263" x="236" y="477" />
+        <RenderRect height="546" width="279" x="227" y="464" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="324" AnchorPointY="534">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="538" width="337" x="308" y="474" />
+        <RenderRect height="548" width="352" x="299" y="455" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningSmashRight</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="619">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="619" width="52" x="31" y="562" />
+        <RenderRect height="628" width="64" x="22" y="542" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="109" AnchorPointY="620">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="619" width="121" x="96" y="564" />
+        <RenderRect height="627" width="131" x="91" y="546" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="176" AnchorPointY="618">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="620" width="188" x="163" y="562" />
+        <RenderRect height="629" width="200" x="152" y="550" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="254" AnchorPointY="619">
+        <ActiveCollisionRect hasActiveRect="1" height="608" width="295" x="264" y="567" />
+        <PassiveCollisionRect height="620" width="270" x="245" y="569" />
+        <RenderRect height="627" width="290" x="227" y="551" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="337" AnchorPointY="621">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="622" width="352" x="325" y="564" />
+        <RenderRect height="629" width="359" x="315" y="546" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>bossLightningSmashLeft</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="335" AnchorPointY="707">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="706" width="341" x="319" y="646" />
+        <RenderRect height="715" width="358" x="313" y="634" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="270" AnchorPointY="706">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="706" width="279" x="255" y="643" />
+        <RenderRect height="717" width="294" x="244" y="630" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="200" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="707" width="211" x="181" y="647" />
+        <RenderRect height="714" width="222" x="170" y="629" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="122" AnchorPointY="701">
+        <ActiveCollisionRect hasActiveRect="1" height="690" width="110" x="81" y="657" />
+        <PassiveCollisionRect height="706" width="127" x="103" y="651" />
+        <RenderRect height="713" width="152" x="80" y="636" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="41" AnchorPointY="701">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="708" width="52" x="24" y="648" />
+        <RenderRect height="721" width="58" x="14" y="633" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

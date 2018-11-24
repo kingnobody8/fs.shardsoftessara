@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="4">
+  <Filename>arrow.png</Filename>
+  <Animation IsLooping="0">
+    <Name>arrowUp</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="19" AnchorPointY="22">
+        <ActiveCollisionRect hasActiveRect="1" height="66" width="29" x="8" y="21" />
+        <PassiveCollisionRect height="66" width="29" x="8" y="22" />
+        <RenderRect height="73" width="32" x="5" y="19" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>arrowDown</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="57" AnchorPointY="67">
+        <ActiveCollisionRect hasActiveRect="1" height="67" width="68" x="48" y="22" />
+        <PassiveCollisionRect height="69" width="69" x="48" y="22" />
+        <RenderRect height="74" width="76" x="42" y="15" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>arrowRight</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="55" AnchorPointY="95">
+        <ActiveCollisionRect hasActiveRect="1" height="107" width="56" x="9" y="84" />
+        <PassiveCollisionRect height="106" width="54" x="10" y="85" />
+        <RenderRect height="113" width="61" x="5" y="76" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>arrowLeft</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="72" AnchorPointY="95">
+        <ActiveCollisionRect hasActiveRect="1" height="107" width="119" x="70" y="84" />
+        <PassiveCollisionRect height="106" width="118" x="71" y="86" />
+        <RenderRect height="117" width="127" x="67" y="77" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Weapons>
+		<Weapon damage="7" body="0" mind="0" char="0" soul="0" value="10" id="0">
+			Short Sword
+		</Weapon>
+		<Weapon damage="11" body="1" mind="0" char="0" soul="0" value="45" id="1">
+			Battle Blade
+		</Weapon>
+		<Weapon damage="9" body="0" mind="3" char="0" soul="0" value="120" id="2">
+			Combat Sword
+		</Weapon>
+		<Weapon damage="19" body="3" mind="4" char="9" soul="0" value="400" id="3">
+			Master Blade
+		</Weapon>
+		<Weapon damage="22" body="4" mind="5" char="12" soul="20" value="550" id="4">
+			Vorpal Blade
+		</Weapon>
+	</Weapons>
+	<Armors>
+		<Armor armor="2" body="0" mind="0" char="0" soul="0" value="10" id="0">
+			Cloth Tunic
+		</Armor>
+		<Armor armor="14" body="0" mind="0" char="2" soul="0" value="150" id="1">
+			Ringmail
+		</Armor>
+		<Armor armor="19" body="2" mind="0" char="3" soul="0" value="200" id="2">
+			Chainmail
+		</Armor>
+		<Armor armor="24" body="0" mind="10" char="4" soul="10" value="365" id="3">
+			Spell Plate
+		</Armor>
+		<Armor armor="28" body="3" mind="4" char="4" soul="8" value="350" id="4">
+			Light Plate
+		</Armor>
+	</Armors>
+	<Potion amount="40" value="20">
+		Potion
+	</Potion>
+	<Gems>
+		<Gem body="4" mind="0" char="0" soul="0" value="4" id="0">
+			body
+		</Gem>
+		<Gem body="0" mind="2" char="0" soul="0" value="4" id="1">
+			mind
+		</Gem>
+		<Gem body="0" mind="5" char="0" soul="0" value="7" id="3">
+			mind
+		</Gem>
+		<Gem body="0" mind="0" char="4" soul="0" value="2" id="4">
+			char
+		</Gem>
+		<Gem body="0" mind="0" char="0" soul="14" value="0" id="5">
+			soul
+		</Gem>
+	</Gems>
+</root>

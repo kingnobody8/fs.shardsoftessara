@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effect>
+  <Emitter StartA="50" StartR="255" StartG="0" StartB="0" EndA="200" EndR="255" EndG="128" EndB="64" XPos="6" YPos="49" MinLife="100" MaxLife="1500" MinP="520" MaxP="530" Width="10" Height="10" CenterX="8" CenterY="8" MinXVel="0" MinYVel="-150" MaxXVel="1" MaxYVel="0" XVelI="0" YVelI="0" RotateSpeed="1" StartScale="0.6" EndScale="0.6" LifeTime="1" Loop="1" EmitterName="Outer" Shape="2">Diamond.png</Emitter>
+  <Emitter StartA="50" StartR="255" StartG="255" StartB="0" EndA="200" EndR="255" EndG="0" EndB="0" XPos="-3" YPos="49" MinLife="100" MaxLife="1500" MinP="520" MaxP="530" Width="10" Height="10" CenterX="8" CenterY="8" MinXVel="0" MinYVel="-150" MaxXVel="1" MaxYVel="0" XVelI="0" YVelI="0" RotateSpeed="1" StartScale="0.7" EndScale="0.4" LifeTime="1" Loop="1" EmitterName="Inner" Shape="2">Diamond.png</Emitter>
+  <Emitter StartA="0" StartR="255" StartG="255" StartB="255" EndA="50" EndR="192" EndG="192" EndB="192" XPos="4" YPos="-16" MinLife="800" MaxLife="2500" MinP="520" MaxP="530" Width="10" Height="10" CenterX="8" CenterY="8" MinXVel="-50" MinYVel="-150" MaxXVel="50" MaxYVel="0" XVelI="0" YVelI="0" RotateSpeed="1" StartScale="0.7" EndScale="0.4" LifeTime="1" Loop="1" EmitterName="Smoke" Shape="2">Diamond.png</Emitter>
+</Effect>

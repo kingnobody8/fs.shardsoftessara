@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="4">
+  <Filename>icebolt.png</Filename>
+  <Animation IsLooping="0">
+    <Name>iceboltRight</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="45" AnchorPointY="18">
+        <ActiveCollisionRect hasActiveRect="1" height="26" width="44" x="4" y="12" />
+        <PassiveCollisionRect height="27" width="44" x="3" y="11" />
+        <RenderRect height="31" width="51" x="1" y="5" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="103" AnchorPointY="18">
+        <ActiveCollisionRect hasActiveRect="1" height="27" width="103" x="62" y="9" />
+        <PassiveCollisionRect height="26" width="102" x="62" y="9" />
+        <RenderRect height="30" width="107" x="55" y="4" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="168" AnchorPointY="18">
+        <ActiveCollisionRect hasActiveRect="1" height="25" width="168" x="126" y="10" />
+        <PassiveCollisionRect height="25" width="168" x="128" y="11" />
+        <RenderRect height="27" width="171" x="124" y="6" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>iceboltLeft</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="9" AnchorPointY="46">
+        <ActiveCollisionRect hasActiveRect="1" height="54" width="50" x="5" y="40" />
+        <PassiveCollisionRect height="53" width="51" x="7" y="40" />
+        <RenderRect height="56" width="53" x="4" y="37" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="62" AnchorPointY="46">
+        <ActiveCollisionRect hasActiveRect="1" height="53" width="103" x="61" y="39" />
+        <PassiveCollisionRect height="54" width="103" x="61" y="38" />
+        <RenderRect height="57" width="105" x="57" y="35" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="123" AnchorPointY="46">
+        <ActiveCollisionRect hasActiveRect="1" height="54" width="163" x="123" y="37" />
+        <PassiveCollisionRect height="55" width="162" x="123" y="37" />
+        <RenderRect height="58" width="167" x="119" y="34" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>iceboltUp</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="18" AnchorPointY="69">
+        <ActiveCollisionRect hasActiveRect="1" height="111" width="26" x="10" y="68" />
+        <PassiveCollisionRect height="110" width="25" x="10" y="69" />
+        <RenderRect height="113" width="29" x="7" y="65" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="46" AnchorPointY="70">
+        <ActiveCollisionRect hasActiveRect="1" height="111" width="52" x="39" y="70" />
+        <PassiveCollisionRect height="110" width="51" x="39" y="70" />
+        <RenderRect height="115" width="56" x="35" y="66" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="78" AnchorPointY="70">
+        <ActiveCollisionRect hasActiveRect="1" height="110" width="86" x="70" y="71" />
+        <PassiveCollisionRect height="111" width="86" x="69" y="70" />
+        <RenderRect height="120" width="93" x="64" y="64" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>iceboltDown</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="122" AnchorPointY="109">
+        <ActiveCollisionRect hasActiveRect="1" height="112" width="130" x="115" y="69" />
+        <PassiveCollisionRect height="110" width="129" x="114" y="69" />
+        <RenderRect height="122" width="136" x="105" y="61" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="177" AnchorPointY="111">
+        <ActiveCollisionRect hasActiveRect="1" height="114" width="184" x="171" y="69" />
+        <PassiveCollisionRect height="114" width="184" x="171" y="69" />
+        <RenderRect height="117" width="190" x="164" y="62" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="234" AnchorPointY="108">
+        <ActiveCollisionRect hasActiveRect="1" height="106" width="241" x="228" y="67" />
+        <PassiveCollisionRect height="108" width="242" x="227" y="68" />
+        <RenderRect height="113" width="248" x="220" y="60" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

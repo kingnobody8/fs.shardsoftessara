@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="1">
+  <Filename>key.png</Filename>
+  <Animation IsLooping="1">
+    <Name>key</Name>
+    <Frames Value="3">
+      <Frame hasTrigger="0" Duration="250" AnchorPointX="24" AnchorPointY="49">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="51" width="39" x="10" y="18" />
+        <RenderRect height="51" width="43" x="6" y="15" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="250" AnchorPointX="64" AnchorPointY="49">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="49" width="79" x="49" y="20" />
+        <RenderRect height="51" width="80" x="45" y="15" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="250" AnchorPointX="103" AnchorPointY="49">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="50" width="115" x="89" y="20" />
+        <RenderRect height="53" width="120" x="87" y="14" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

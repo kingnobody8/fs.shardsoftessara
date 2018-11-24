@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="4">
+  <Filename>door.png</Filename>
+  <Animation IsLooping="0">
+    <Name>doorClosed</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="31" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="127" width="63" x="0" y="-64" />
+        <PassiveCollisionRect height="63" width="63" x="0" y="0" />
+        <RenderRect height="63" width="63" x="0" y="0" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>doorOpen</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="175" AnchorPointY="190">
+        <ActiveCollisionRect hasActiveRect="1" height="255" width="207" x="144" y="64" />
+        <PassiveCollisionRect height="128" width="207" x="144" y="128" />
+        <RenderRect height="191" width="207" x="144" y="128" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>doorTransition</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="32" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="63" x="0" y="0" />
+        <RenderRect height="63" width="63" x="0" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="128" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="159" x="96" y="0" />
+        <RenderRect height="63" width="159" x="96" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="208" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="239" x="176" y="0" />
+        <RenderRect height="63" width="239" x="176" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="32" AnchorPointY="190">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="191" width="63" x="0" y="128" />
+        <RenderRect height="191" width="63" x="0" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="176" AnchorPointY="190">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="191" width="207" x="144" y="128" />
+        <RenderRect height="191" width="207" x="144" y="128" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>doorTransitionBackwards</Name>
+    <Frames Value="5">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="176" AnchorPointY="190">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="191" width="207" x="144" y="128" />
+        <RenderRect height="191" width="207" x="144" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="32" AnchorPointY="190">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="191" width="63" x="0" y="128" />
+        <RenderRect height="191" width="63" x="0" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="208" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="239" x="176" y="0" />
+        <RenderRect height="63" width="239" x="176" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="128" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="159" x="96" y="0" />
+        <RenderRect height="63" width="159" x="96" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="32" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="63" width="63" x="0" y="0" />
+        <RenderRect height="63" width="63" x="0" y="0" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="12">
+  <Filename>wraithDesert.png</Filename>
+  <Animation IsLooping="1">
+    <Name>wraithDesertWalkUp</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="57" AnchorPointY="58">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="57" width="67" x="47" y="28" />
+        <RenderRect height="67" width="87" x="29" y="19" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="55" AnchorPointY="118">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="118" width="67" x="44" y="90" />
+        <RenderRect height="129" width="87" x="25" y="78" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wraithDesertWalkLeft</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="125" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="60" width="135" x="111" y="26" />
+        <RenderRect height="74" width="143" x="103" y="13" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="123" AnchorPointY="126">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="126" width="138" x="107" y="93" />
+        <RenderRect height="129" width="142" x="104" y="84" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wraithDesertWalkDown</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="57" AnchorPointY="184">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="185" width="73" x="43" y="156" />
+        <RenderRect height="194" width="87" x="31" y="146" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="57" AnchorPointY="248">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="246" width="71" x="46" y="219" />
+        <RenderRect height="254" width="83" x="29" y="215" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wraithDesertWalkRight</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="113" AnchorPointY="253">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="254" width="129" x="101" y="225" />
+        <RenderRect height="260" width="134" x="95" y="216" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="111" AnchorPointY="189">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="187" width="126" x="100" y="159" />
+        <RenderRect height="194" width="142" x="93" y="155" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wraithDesertStandUp</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="57" AnchorPointY="58">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="57" width="67" x="47" y="28" />
+        <RenderRect height="67" width="87" x="29" y="19" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wraithDesertStandLeft</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="125" AnchorPointY="62">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="60" width="135" x="111" y="26" />
+        <RenderRect height="74" width="143" x="103" y="13" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wraithDesertStandDown</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="57" AnchorPointY="184">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="185" width="73" x="43" y="156" />
+        <RenderRect height="194" width="87" x="31" y="146" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>wraithDesertStandRight</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="113" AnchorPointY="253">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="254" width="129" x="101" y="225" />
+        <RenderRect height="260" width="134" x="95" y="216" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wraithDesertCastUp</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="55" AnchorPointY="362">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="362" width="68" x="43" y="333" />
+        <RenderRect height="369" width="83" x="28" y="321" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="57" AnchorPointY="302">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="303" width="69" x="46" y="273" />
+        <RenderRect height="312" width="83" x="29" y="266" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="55" AnchorPointY="362">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="362" width="68" x="43" y="333" />
+        <RenderRect height="369" width="83" x="28" y="321" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="57" AnchorPointY="302">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="303" width="69" x="46" y="273" />
+        <RenderRect height="312" width="83" x="29" y="266" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wraithDesertCastLeft</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="120" AnchorPointY="300">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="300" width="135" x="110" y="274" />
+        <RenderRect height="307" width="138" x="99" y="261" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="118" AnchorPointY="364">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="365" width="138" x="107" y="339" />
+        <RenderRect height="369" width="140" x="98" y="325" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="120" AnchorPointY="300">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="300" width="135" x="110" y="274" />
+        <RenderRect height="307" width="138" x="99" y="261" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="200" AnchorPointX="118" AnchorPointY="364">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="365" width="138" x="107" y="339" />
+        <RenderRect height="369" width="140" x="98" y="325" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wraithDesertCastDown</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="58" AnchorPointY="428">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="425" width="71" x="42" y="399" />
+        <RenderRect height="429" width="84" x="31" y="387" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="58" AnchorPointY="490">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="490" width="71" x="44" y="464" />
+        <RenderRect height="494" width="83" x="31" y="449" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="58" AnchorPointY="428">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="425" width="71" x="42" y="399" />
+        <RenderRect height="429" width="84" x="31" y="387" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="58" AnchorPointY="490">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="490" width="71" x="44" y="464" />
+        <RenderRect height="494" width="83" x="31" y="449" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>wraithDesertCastRight</Name>
+    <Frames Value="4">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="114" AnchorPointY="430">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="430" width="127" x="99" y="402" />
+        <RenderRect height="434" width="138" x="95" y="390" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="116" AnchorPointY="494">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="494" width="128" x="99" y="468" />
+        <RenderRect height="500" width="141" x="94" y="453" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="114" AnchorPointY="430">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="430" width="127" x="99" y="402" />
+        <RenderRect height="434" width="138" x="95" y="390" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="116" AnchorPointY="494">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="494" width="128" x="99" y="468" />
+        <RenderRect height="500" width="141" x="94" y="453" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

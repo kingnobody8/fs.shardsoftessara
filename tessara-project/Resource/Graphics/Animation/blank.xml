@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="1">
+  <Filename>blank.png</Filename>
+  <Animation IsLooping="1">
+    <Name>blank</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="0" AnchorPointY="0">
+        <ActiveCollisionRect hasActiveRect="0" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="0" width="0" x="0" y="0" />
+        <RenderRect height="0" width="0" x="0" y="0" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

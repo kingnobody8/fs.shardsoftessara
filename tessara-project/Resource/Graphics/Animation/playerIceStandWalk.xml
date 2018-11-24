@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="8">
+  <Filename>playerStandWalkIce.png</Filename>
+  <Animation IsLooping="0">
+    <Name>playerIceStandDown</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="40" AnchorPointY="86">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="88" width="54" x="27" y="50" />
+        <RenderRect height="90" width="65" x="13" y="14" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>playerIceStandUp</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="103" AnchorPointY="85">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="84" width="119" x="88" y="49" />
+        <RenderRect height="88" width="127" x="78" y="13" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>playerIceStandRight</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="162" AnchorPointY="85">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="87" width="177" x="152" y="50" />
+        <RenderRect height="89" width="179" x="141" y="10" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>playerIceStandLeft</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="224" AnchorPointY="85">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="85" width="235" x="213" y="47" />
+        <RenderRect height="88" width="243" x="207" y="11" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>playerIceWalkDown</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="42" AnchorPointY="204">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="210" width="56" x="26" y="169" />
+        <RenderRect height="211" width="70" x="10" y="132" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="95" AnchorPointY="204">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="210" width="111" x="81" y="170" />
+        <RenderRect height="211" width="117" x="70" y="130" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="144" AnchorPointY="202">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="201" width="164" x="128" y="167" />
+        <RenderRect height="205" width="167" x="120" y="130" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="189" AnchorPointY="202">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="210" width="203" x="175" y="172" />
+        <RenderRect height="212" width="215" x="170" y="132" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="237" AnchorPointY="202">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="207" width="255" x="223" y="169" />
+        <RenderRect height="211" width="261" x="216" y="131" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="288" AnchorPointY="200">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="201" width="301" x="273" y="170" />
+        <RenderRect height="206" width="310" x="265" y="131" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>playerIceWalkUp</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="42" AnchorPointY="312">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="318" width="55" x="23" y="277" />
+        <RenderRect height="326" width="66" x="10" y="237" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="94" AnchorPointY="312">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="312" width="112" x="76" y="277" />
+        <RenderRect height="237" width="117" x="66" y="326" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="141" AnchorPointY="311">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="314" width="153" x="132" y="277" />
+        <RenderRect height="321" width="172" x="116" y="239" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="192" AnchorPointY="312">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="318" width="209" x="180" y="277" />
+        <RenderRect height="323" width="223" x="165" y="240" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="247" AnchorPointY="312">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="315" width="260" x="233" y="277" />
+        <RenderRect height="323" width="271" x="223" y="233" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="303" AnchorPointY="311">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="318" width="318" x="285" y="277" />
+        <RenderRect height="323" width="338" x="271" y="233" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>playerIceWalkRight</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="41" AnchorPointY="397">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="400" width="61" x="22" y="366" />
+        <RenderRect height="405" width="71" x="15" y="323" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="96" AnchorPointY="396">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="393" width="110" x="79" y="360" />
+        <RenderRect height="405" width="122" x="71" y="319" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="145" AnchorPointY="396">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="398" width="156" x="134" y="361" />
+        <RenderRect height="407" width="169" x="122" y="319" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="198" AnchorPointY="396">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="396" width="212" x="183" y="362" />
+        <RenderRect height="407" width="227" x="169" y="324" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="251" AnchorPointY="396">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="403" width="264" x="238" y="361" />
+        <RenderRect height="409" width="282" x="227" y="324" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="307" AnchorPointY="397">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="399" width="319" x="293" y="359" />
+        <RenderRect height="409" width="328" x="282" y="325" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>playerIceWalkLeft</Name>
+    <Frames Value="6">
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="307" AnchorPointY="488">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="488" width="318" x="289" y="454" />
+        <RenderRect height="503" width="336" x="275" y="408" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="248" AnchorPointY="488">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="488" width="262" x="236" y="454" />
+        <RenderRect height="503" width="275" x="222" y="411" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="199" AnchorPointY="490">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="489" width="213" x="182" y="454" />
+        <RenderRect height="502" width="222" x="168" y="411" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="147" AnchorPointY="491">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="493" width="159" x="126" y="454" />
+        <RenderRect height="502" width="168" x="116" y="407" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="94" AnchorPointY="492">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="493" width="104" x="80" y="454" />
+        <RenderRect height="502" width="116" x="62" y="407" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="75" AnchorPointX="36" AnchorPointY="492">
+        <ActiveCollisionRect hasActiveRect="1" height="-1" width="-1" x="-1" y="-1" />
+        <PassiveCollisionRect height="492" width="50" x="20" y="454" />
+        <RenderRect height="502" width="62" x="13" y="414" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

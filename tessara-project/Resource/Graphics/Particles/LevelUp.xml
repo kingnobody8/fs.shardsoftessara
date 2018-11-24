@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effect>
+  <Emitter StartA="255" StartR="255" StartG="255" StartB="255" EndA="255" EndR="255" EndG="255" EndB="0" XPos="-6" YPos="135" MinLife="100" MaxLife="1000" Spawn="200" MaxP="200" Width="50" Height="10" CenterX="8" CenterY="8" MinXVel="-200" MinYVel="-200" MaxXVel="200" MaxYVel="200" XVelI="0" YVelI="-500" RotateSpeed="1" StartScale="0.2" EndScale="0.3" LifeTime="1" Loop="0" EmitterName="Emitter1" Shape="1" Fill="2" Radius="50" TWidth="16" THeight="16">diamond.png</Emitter>
+  <Emitter StartA="0" StartR="255" StartG="255" StartB="255" EndA="200" EndR="255" EndG="255" EndB="0" XPos="-7" YPos="83" MinLife="100" MaxLife="1000" Spawn="200" MaxP="200" Width="10" Height="10" CenterX="8" CenterY="8" MinXVel="-200" MinYVel="-200" MaxXVel="300" MaxYVel="1" XVelI="0" YVelI="0" RotateSpeed="9" StartScale="1" EndScale="1" LifeTime="1" Loop="0" EmitterName="Emitter1" Shape="1" Fill="2" Radius="50" TWidth="16" THeight="16">diamond.png</Emitter>
+</Effect>

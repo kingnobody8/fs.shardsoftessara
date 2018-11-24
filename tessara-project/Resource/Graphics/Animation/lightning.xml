@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="1">
+  <Filename>lightning.png</Filename>
+  <Animation IsLooping="1">
+    <Name>lightning</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="16" AnchorPointY="16">
+        <ActiveCollisionRect hasActiveRect="1" height="28" width="28" x="3" y="4" />
+        <PassiveCollisionRect height="22" width="21" x="11" y="11" />
+        <RenderRect height="30" width="29" x="1" y="2" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="46" AnchorPointY="16">
+        <ActiveCollisionRect hasActiveRect="1" height="28" width="55" x="39" y="3" />
+        <PassiveCollisionRect height="25" width="53" x="41" y="9" />
+        <RenderRect height="32" width="62" x="32" y="-1" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

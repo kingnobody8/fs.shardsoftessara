@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effect>
+  <Emitter StartA="255" StartR="192" StartG="192" StartB="192" EndA="0" EndR="255" EndG="255" EndB="0" XPos="12" YPos="-20" MinLife="500" MaxLife="1500" Spawn="150" MaxP="200" Width="16" Height="32" CenterX="8" CenterY="8" MinXVel="0" MinYVel="-200" MaxXVel="300" MaxYVel="300" XVelI="-100" YVelI="0" RotateSpeed="1" StartScale="0.5" EndScale="0.2" LifeTime="1" Loop="1" EmitterName="Emitter1" Shape="1" Fill="1" Radius="50" TWidth="16" THeight="16">circle.png</Emitter>
+  <Emitter StartA="255" StartR="192" StartG="192" StartB="192" EndA="0" EndR="255" EndG="255" EndB="0" XPos="-13" YPos="-20" MinLife="500" MaxLife="1500" Spawn="150" MaxP="200" Width="16" Height="32" CenterX="8" CenterY="8" MinXVel="-300" MinYVel="-200" MaxXVel="0" MaxYVel="300" XVelI="100" YVelI="0" RotateSpeed="1" StartScale="0.5" EndScale="0.2" LifeTime="1" Loop="1" EmitterName="Emitter1" Shape="1" Fill="1" Radius="50" TWidth="16" THeight="16">circle.png</Emitter>
+</Effect>

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Weapons>
+    <Weapon damage="7" body="0" mind="0" char="0" soul="0" value="10" id="1">
+      <Name>Short Sword</Name>
+      <Description>Beginner weapon</Description>
+    </Weapon>
+    <Weapon damage="11" body="1" mind="0" char="0" soul="0" value="45" id="3">
+      <Name>Battle Blade</Name>
+      <Description>Buy</Description>
+    </Weapon>
+    <Weapon damage="9" body="0" mind="3" char="0" soul="0" value="50" id="4">
+      <Name>Spell Dagger</Name>
+      <Description>Buy</Description>
+    </Weapon>
+    <Weapon damage="12" body="2" mind="0" char="3" soul="0" value="120" id="11">
+      <Name>Combat Sword</Name>
+      <Description>Buy after forest</Description>
+    </Weapon>
+    <Weapon damage="13" body="0" mind="2" char="2" soul="0" value="130" id="12">
+      <Name>Silver Blade</Name>
+      <Description>Buy after forest</Description>
+    </Weapon>
+    <Weapon damage="16" body="4" mind="2" char="0" soul="2" value="200" id="13">
+      <Name>Claymore</Name>
+      <Description>Buy after forest</Description>
+    </Weapon>
+    <Weapon damage="8" body="0" mind="7" char="0" soul="12" value="245" id="21">
+      <Name>Mind Razor</Name>
+      <Description>Buy after tundra</Description>
+    </Weapon>
+    <Weapon damage="15" body="5" mind="0" char="12" soul="0" value="300" id="22">
+      <Name>Katana</Name>
+      <Description>Buy after tundra</Description>
+    </Weapon>
+    <Weapon damage="19" body="3" mind="4" char="9" soul="0" value="400" id="29">
+      <Name>Master Blade</Name>
+      <Description>Buy after mountain</Description>
+    </Weapon>
+    <Weapon damage="22" body="4" mind="5" char="15" soul="20" value="550" id="30">
+      <Name>Vorpal Blade</Name>
+      <Description>Buy after mountain</Description>
+    </Weapon>
+  </Weapons>
+  <Armors>
+    <Armor armor="2" body="0" mind="0" char="0" soul="0" value="10" id="2">
+      <Name>Cloth Tunic</Name>
+      <Description>Beginner armor</Description>
+    </Armor>
+    <Armor armor="5" body="0" mind="0" char="0" soul="0" value="45" id="5">
+      <Name>Leather Tunic</Name>
+      <Description>Buy</Description>
+    </Armor>
+    <Armor armor="9" body="0" mind="0" char="0" soul="0" value="100" id="6">
+      <Name>Studded Tunic</Name>
+      <Description>Buy</Description>
+    </Armor>
+    <Armor armor="14" body="0" mind="0" char="2" soul="0" value="150" id="14">
+      <Name>Ring Mail</Name>
+      <Description>Buy after forest</Description>
+    </Armor>
+    <Armor armor="10" body="0" mind="3" char="2" soul="8" value="165" id="15">
+      <Name>Spell Mail</Name>
+      <Description>Buy after forest</Description>
+    </Armor>
+    <Armor armor="19" body="2" mind="0" char="3" soul="0" value="200" id="16">
+      <Name>Chain Mail</Name>
+      <Description>Buy after forest</Description>
+    </Armor>
+    <Armor armor="22" body="2" mind="0" char="2" soul="10" value="270" id="23">
+      <Name>Scale Mail</Name>
+      <Description>Buy after tundra</Description>
+    </Armor>
+    <Armor armor="28" body="3" mind="3" char="4" soul="8" value="350" id="24">
+      <Name>Light Plate</Name>
+      <Description>Buy after tundra</Description>
+    </Armor>
+    <Armor armor="24" body="8" mind="0" char="10" soul="0" value="365" id="31">
+      <Name>Spell Plate</Name>
+      <Description>Buy after mountain</Description>
+    </Armor>
+    <Armor armor="35" body="10" mind="0" char="8" soul="0" value="400" id="32">
+      <Name>Heavy Plate</Name>
+      <Description>Buy after mountain</Description>
+    </Armor>
+  </Armors>
+  <Gems>
+    <Gem body="1" mind="0" char="0" soul="0" value="35" id="7">
+      <Name>body</Name>
+      <Description>Buy</Description>
+    </Gem>
+    <Gem body="0" mind="1" char="0" soul="0" value="35" id="8">
+      <Name>mind</Name>
+      <Description>Buy</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="0" soul="1" value="35" id="9">
+      <Name>soul</Name>
+      <Description>Buy</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="1" soul="0" value="35" id="10">
+      <Name>char</Name>
+      <Description>Buy</Description>
+    </Gem>
+    <Gem body="3" mind="0" char="0" soul="0" value="100" id="17">
+      <Name>body</Name>
+      <Description>Buy after forest</Description>
+    </Gem>
+    <Gem body="0" mind="3" char="0" soul="0" value="100" id="18">
+      <Name>mind</Name>
+      <Description>Buy after forest</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="0" soul="3" value="100" id="19">
+      <Name>soul</Name>
+      <Description>Buy after forest</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="3" soul="0" value="100" id="20">
+      <Name>char</Name>
+      <Description>Buy after forest</Description>
+    </Gem>
+    <Gem body="6" mind="0" char="0" soul="0" value="220" id="25">
+      <Name>body</Name>
+      <Description>Buy after tundra</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="0" soul="6" value="220" id="26">
+      <Name>soul</Name>
+      <Description>Buy after tundra</Description>
+    </Gem>
+    <Gem body="0" mind="6" char="0" soul="0" value="220" id="27">
+      <Name>mind</Name>
+      <Description>Buy after tundra</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="6" soul="0" value="220" id="28">
+      <Name>char</Name>
+      <Description>Buy after tundra</Description>
+    </Gem>
+    <Gem body="10" mind="0" char="0" soul="0" value="350" id="33">
+      <Name>body</Name>
+      <Description>Buy after mountain</Description>
+    </Gem>
+    <Gem body="0" mind="10" char="0" soul="0" value="350" id="34">
+      <Name>mind</Name>
+      <Description>Buy after mountain</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="0" soul="10" value="350" id="35">
+      <Name>soul</Name>
+      <Description>Buy after mountain</Description>
+    </Gem>
+    <Gem body="0" mind="0" char="10" soul="0" value="350" id="36">
+      <Name>char</Name>
+      <Description>Buy after mountain</Description>
+    </Gem>
+  </Gems>
+  <Potion amount="40" value="10">
+    <Name>Potion</Name>
+    <Description>Potion</Description>
+  </Potion>
+</root>

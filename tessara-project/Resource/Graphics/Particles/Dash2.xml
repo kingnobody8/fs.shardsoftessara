@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effect>
+  <Emitter StartA="255" StartR="0" StartG="255" StartB="255" EndA="255" EndR="255" EndG="255" EndB="255" XPos="4" YPos="-24" MinLife="100" MaxLife="200" Spawn="90" MaxP="100" Width="50" Height="50" CenterX="16" CenterY="16" MinXVel="0" MinYVel="0" MaxXVel="1" MaxYVel="1" XVelI="0" YVelI="0" RotateSpeed="2" StartScale="1" EndScale="1" LifeTime="1" Loop="1" EmitterName="Emitter1" Shape="1" Fill="1" Radius="50" TWidth="32" THeight="32">Lightning2.png</Emitter>
+</Effect>

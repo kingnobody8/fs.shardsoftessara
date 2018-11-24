@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="1">
+  <Filename>explosion.png</Filename>
+  <Animation IsLooping="0">
+    <Name>explosion</Name>
+    <Frames Value="48">
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="63" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="74" width="70" x="54" y="56" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="127" x="0" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="191" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="75" width="202" x="183" y="53" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="255" x="128" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="319" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="85" width="335" x="304" y="51" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="383" x="256" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="447" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="84" width="466" x="432" y="50" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="511" x="384" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="575" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="88" width="590" x="558" y="47" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="639" x="512" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="703" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="87" width="724" x="681" y="40" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="767" x="640" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="831" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="92" width="857" x="805" y="41" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="895" x="768" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="959" AnchorPointY="63">
+        <ActiveCollisionRect hasActiveRect="1" height="97" width="986" x="930" y="40" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="127" width="1023" x="896" y="0" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="63" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="223" width="96" x="27" y="164" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="127" x="0" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="191" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="225" width="222" x="159" y="165" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="255" x="128" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="319" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="224" width="351" x="286" y="162" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="383" x="256" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="447" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="227" width="477" x="415" y="162" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="511" x="384" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="575" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="232" width="612" x="538" y="157" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="639" x="512" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="703" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="232" width="742" x="663" y="160" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="767" x="640" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="831" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="232" width="870" x="793" y="156" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="895" x="768" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="959" AnchorPointY="191">
+        <ActiveCollisionRect hasActiveRect="1" height="235" width="997" x="923" y="155" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="255" width="1023" x="896" y="128" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="63" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="364" width="101" x="31" y="274" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="127" x="0" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="191" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="361" width="231" x="150" y="278" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="255" x="128" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="319" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="366" width="364" x="278" y="276" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="383" x="256" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="447" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="366" width="488" x="409" y="278" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="511" x="384" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="575" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="364" width="619" x="534" y="277" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="639" x="512" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="703" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="368" width="745" x="661" y="279" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="767" x="640" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="831" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="368" width="880" x="787" y="275" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="895" x="768" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="959" AnchorPointY="319">
+        <ActiveCollisionRect hasActiveRect="1" height="367" width="1007" x="914" y="274" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="383" width="1023" x="896" y="256" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="63" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="501" width="107" x="24" y="405" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="127" x="0" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="191" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="497" width="239" x="146" y="402" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="255" x="128" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="319" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="494" width="364" x="275" y="403" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="383" x="256" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="447" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="495" width="491" x="406" y="409" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="511" x="384" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="575" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="501" width="624" x="530" y="400" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="639" x="512" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="703" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="500" width="750" x="656" y="407" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="767" x="640" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="831" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="499" width="875" x="790" y="402" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="895" x="768" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="959" AnchorPointY="447">
+        <ActiveCollisionRect hasActiveRect="1" height="495" width="1005" x="918" y="401" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="511" width="1023" x="896" y="384" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="63" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="622" width="107" x="25" y="530" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="127" x="0" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="191" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="616" width="229" x="164" y="543" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="255" x="128" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="319" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="613" width="353" x="290" y="541" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="383" x="256" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="447" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="610" width="476" x="421" y="546" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="511" x="384" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="575" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="611" width="601" x="544" y="555" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="639" x="512" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="703" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="611" width="725" x="673" y="564" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="767" x="640" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="831" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="606" width="843" x="810" y="561" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="895" x="768" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="959" AnchorPointY="575">
+        <ActiveCollisionRect hasActiveRect="1" height="589" width="965" x="937" y="568" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="639" width="1023" x="896" y="512" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="63" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="714" width="73" x="42" y="693" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="127" x="0" y="640" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="191" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="717" width="199" x="178" y="698" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="255" x="128" y="640" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="319" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="714" width="328" x="301" y="697" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="383" x="256" y="640" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="447" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="709" width="453" x="441" y="699" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="511" x="384" y="640" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="575" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="708" width="581" x="576" y="701" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="639" x="512" y="640" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="703" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="706" width="717" x="701" y="690" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="767" x="640" y="640" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="831" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="707" width="832" x="818" y="692" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="895" x="768" y="640" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="10" AnchorPointX="959" AnchorPointY="703">
+        <ActiveCollisionRect hasActiveRect="1" height="706" width="953" x="948" y="699" />
+        <PassiveCollisionRect height="-1" width="-1" x="-1" y="-1" />
+        <RenderRect height="767" width="1023" x="896" y="640" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>

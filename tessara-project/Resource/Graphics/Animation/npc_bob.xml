@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations Value="8">
+  <Filename>npc_bob.png</Filename>
+  <Animation IsLooping="0">
+    <Name>npcBobStandDown</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="191" AnchorPointY="121">
+        <ActiveCollisionRect hasActiveRect="1" height="153" width="242" x="145" y="42" />
+        <PassiveCollisionRect height="121" width="207" x="177" y="74" />
+        <RenderRect height="126" width="219" x="166" y="66" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>npcBobWalkDown</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="191" AnchorPointY="186">
+        <ActiveCollisionRect hasActiveRect="1" height="218" width="240" x="141" y="100" />
+        <PassiveCollisionRect height="187" width="206" x="177" y="141" />
+        <RenderRect height="190" width="217" x="167" y="126" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="191" AnchorPointY="250">
+        <ActiveCollisionRect hasActiveRect="1" height="278" width="234" x="148" y="173" />
+        <PassiveCollisionRect height="249" width="205" x="177" y="204" />
+        <RenderRect height="253" width="217" x="165" y="189" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>npcBobStandUp</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="63" AnchorPointY="57">
+        <ActiveCollisionRect hasActiveRect="1" height="80" width="103" x="18" y="-30" />
+        <PassiveCollisionRect height="57" width="81" x="46" y="7" />
+        <RenderRect height="60" width="93" x="37" y="1" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>npcBobWalkUp</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="192" AnchorPointY="58">
+        <ActiveCollisionRect hasActiveRect="1" height="94" width="226" x="149" y="-30" />
+        <PassiveCollisionRect height="60" width="210" x="171" y="6" />
+        <RenderRect height="62" width="217" x="166" y="2" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="128" AnchorPointY="250">
+        <ActiveCollisionRect hasActiveRect="1" height="277" width="164" x="91" y="170" />
+        <PassiveCollisionRect height="252" width="145" x="109" y="197" />
+        <RenderRect height="255" width="151" x="103" y="191" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>npcBobStandRight</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="128" AnchorPointY="56">
+        <ActiveCollisionRect hasActiveRect="1" height="85" width="161" x="86" y="-30" />
+        <PassiveCollisionRect height="59" width="143" x="110" y="7" />
+        <RenderRect height="61" width="153" x="103" y="-1" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>npcBobWalkRight</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="128" AnchorPointY="121">
+        <ActiveCollisionRect hasActiveRect="1" height="147" width="166" x="83" y="42" />
+        <PassiveCollisionRect height="122" width="141" x="112" y="67" />
+        <RenderRect height="126" width="150" x="106" y="61" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="128" AnchorPointY="185">
+        <ActiveCollisionRect hasActiveRect="1" height="211" width="176" x="81" y="106" />
+        <PassiveCollisionRect height="186" width="144" x="115" y="132" />
+        <RenderRect height="189" width="151" x="105" y="127" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="0">
+    <Name>npcBobStandLeft</Name>
+    <Frames Value="1">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="64" AnchorPointY="184">
+        <ActiveCollisionRect hasActiveRect="1" height="219" width="111" x="16" y="99" />
+        <PassiveCollisionRect height="184" width="81" x="50" y="135" />
+        <RenderRect height="190" width="91" x="42" y="125" />
+      </Frame>
+    </Frames>
+  </Animation>
+  <Animation IsLooping="1">
+    <Name>npcBobWalkLeft</Name>
+    <Frames Value="2">
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="64" AnchorPointY="121">
+        <ActiveCollisionRect hasActiveRect="1" height="154" width="113" x="12" y="31" />
+        <PassiveCollisionRect height="119" width="82" x="48" y="73" />
+        <RenderRect height="127" width="89" x="40" y="62" />
+      </Frame>
+      <Frame hasTrigger="0" Duration="100" AnchorPointX="64" AnchorPointY="249">
+        <ActiveCollisionRect hasActiveRect="1" height="287" width="116" x="14" y="162" />
+        <PassiveCollisionRect height="250" width="82" x="51" y="199" />
+        <RenderRect height="253" width="88" x="42" y="190" />
+      </Frame>
+    </Frames>
+  </Animation>
+</Animations>
